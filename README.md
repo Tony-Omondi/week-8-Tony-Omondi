@@ -26,8 +26,7 @@ Select a Sustainable Development Goal (SDG) that resonates with you and develop 
 
 ### Part 4: Data Analysis Using Excel
 - **Import Data:** Import data from your database into Excel.
-- **Analysis:** Analyze the data using pivot tables, charts, and other Excel tools.
-- **Dashboard:** Create an interactive Excel dashboard to visualize key insights.
+
 
 ### Part 5: Integration and Testing
 - **Integration:** Document the process of importing data into Excel and ensuring consistency.
